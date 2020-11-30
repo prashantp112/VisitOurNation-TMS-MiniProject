@@ -247,12 +247,11 @@ Our travel experts can help you book now!</h4>
 		  <div class="contact-grids">
 			  <div class="container">
 				  <div class="col-md-4 address">
-						<h4 style="color:#09F">KALER Enterprises</h4>
+						<h4 style="color:#09F">VON Enterprises</h4>
 						<p style="color:#000">NEED HELP BOOKING PACKAGE<br/>
                         For fantastic suggestions you may also call our travel expert</p>
-						<h5 style="color:#000"><span class="img1"></span>(+91) 9779730479&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;(+91) 7696303090</h5>
-						<h5 style="color:#000"><span class="img2"></span><a href="#">info[at]visitournation.com&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;support[at]visitournation.com</a></h5>
-						<h5 style="color:#000"><span class="img3"></span>1100 High Street, Model Town Phagwara.</h5>
+						<h5 style="color:#000"><span class="img1"></span>(+91) 9999999999&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;(+91) 8888888888</h5>
+						<h5 style="color:#000"><span class="img2"></span><a href="#">info[at]von.com&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;support[at]von.com</a></h5>
                         <br/>
                        <img src="images/contac.jpg" />
                       </div>
